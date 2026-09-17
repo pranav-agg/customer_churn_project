@@ -1,0 +1,46 @@
+{
+    "customers": [
+        {
+            "Contract": "Month-to-month",
+            "Dependents": "No",
+            "DeviceProtection": "No",
+            "InternetService": "Fiber optic",
+            "MonthlyCharges": 94.4,
+            "MultipleLines": "No",
+            "OnlineBackup": "No",
+            "OnlineSecurity": "No",
+            "PaperlessBilling": "Yes",
+            "Partner": "No",
+            "PaymentMethod": "Electronic check",
+            "PhoneService": "Yes",
+            "SeniorCitizen": 0,
+            "StreamingMovies": "Yes",
+            "StreamingTV": "Yes",
+            "TechSupport": "No",
+            "TotalCharges": 189.5,
+            "gender": "Female",
+            "tenure": 2
+        },
+        {
+            "Contract": "One year",
+            "Dependents": "No",
+            "DeviceProtection": "No",
+            "InternetService": "Fiber optic",
+            "MonthlyCharges": 15.0,
+            "MultipleLines": "No",
+            "OnlineBackup": "No",
+            "OnlineSecurity": "No",
+            "PaperlessBilling": "Yes",
+            "Partner": "No",
+            "PaymentMethod": "Mailed check",
+            "PhoneService": "Yes",
+            "SeniorCitizen": 0,
+            "StreamingMovies": "Yes",
+            "StreamingTV": "Yes",
+            "TechSupport": "No",
+            "TotalCharges": 200,
+            "gender": "Female",
+            "tenure": 2
+        }
+    ]
+}
