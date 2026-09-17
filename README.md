@@ -14,6 +14,10 @@ the retention team can engage them before they leave.
 
 ---
 
+## REPO LINK:
+
+https://github.com/pranav-agg/customer_churn_project/
+
 ## Results at a glance
 
 Test set: 2,113 customers held out from the start and untouched until final evaluation.
